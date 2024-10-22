@@ -1,5 +1,5 @@
 Suzana
-1º ano do Técnico em Desenvolvimento de Sistemas
+2º ano do Técnico em Desenvolvimento de Sistemas
 
 <!---
 SuzanaBG/SuzanaBG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
